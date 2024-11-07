@@ -29,4 +29,4 @@ $plugin->version  = 2024041100;    // The current plugin version (Date: YYYYMMDD
 $plugin->release  = 2024041100;    // Match release exactly to version.
 $plugin->requires = 2023042400;    // Requires Moodle 4.2.0 or later.
 $plugin->maturity = MATURITY_STABLE;
-$plugin->supported = [402, 402];
+$plugin->supported = [402, 404];
